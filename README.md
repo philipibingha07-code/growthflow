@@ -1,7 +1,14 @@
 # 🚀 GrowthFlow SaaS Analytics
 
-### From Fragmented Customer Data to a Data-Driven Growth Strategy
-GrowthFlow is an end-to-end SaaS analytics project that transforms fragmented **customer, billing, usage, engagement, and feedback data** into actionable business insights. Using **Python, Pandas, DuckDB/SQL, customer segmentation, cohort analysis, and Tableau**, the project investigates revenue growth, customer value, product engagement, and expansion opportunities.
+## 📌 Project Overview
+
+**GrowthFlow SaaS Growth Intelligence** is an end-to-end analytics project that transforms fragmented **customer, billing, product usage, engagement, and feedback data** into a unified customer view.
+
+Using **Python, SQL, and Tableau**, the project analyzes revenue growth, customer value, product engagement, CRM adoption, regional performance, and customer behavior to uncover the key drivers of growth.
+
+The analysis revealed **$11.09M in total revenue and 158.9% YoY growth**, while identifying three major growth opportunities: **protecting high-value Enterprise revenue, increasing CRM adoption, and driving deeper product engagement**.
+
+> 🎯 **Goal:** Move beyond reporting to understand **what drives revenue, where growth opportunities exist, and how GrowthFlow can achieve more sustainable growth.**
 
 ## 🎯 Business Problem
 
